@@ -1,0 +1,14 @@
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\bin\Debug\netstandard2.0\BasicMobileApp.deps.json
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\bin\Debug\netstandard2.0\BasicMobileApp.dll
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\bin\Debug\netstandard2.0\ref\BasicMobileApp.dll
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\bin\Debug\netstandard2.0\BasicMobileApp.pdb
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\BasicMobileApp.csprojAssemblyReference.cache
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\BasicMobileApp.AssemblyInfoInputs.cache
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\BasicMobileApp.AssemblyInfo.cs
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\BasicMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\BasicMobileApp.dll
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\ref\BasicMobileApp.dll
+C:\Users\Z\source\repos\Git\BasicMobileApp\BasicMobileApp\BasicMobileApp\obj\Debug\netstandard2.0\BasicMobileApp.pdb
